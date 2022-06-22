@@ -11,6 +11,15 @@
   --background-color-social-link: white;
 }
 
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+button {
+  cursor: pointer;
+}
+
 h1,
 h2,
 h3,
@@ -35,15 +44,6 @@ img {
 
 .list {
   list-style: none;
-}
-
-body {
-  font-family: "Roboto", sans-serif;
-  color: black;
-}
-
-button {
-  cursor: pointer;
 }
 
 .container {
